@@ -1,0 +1,9 @@
+C:\Users\jonat\Desktop\TrueCoders\repos\StaticExercise\StaticExercise\StaticExercise\obj\Debug\net472\StaticExercise.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\StaticExercise\StaticExercise\StaticExercise\obj\Debug\net472\StaticExercise.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\StaticExercise\StaticExercise\StaticExercise\obj\Debug\net472\StaticExercise.AssemblyInfo.cs
+C:\Users\jonat\Desktop\TrueCoders\repos\StaticExercise\StaticExercise\StaticExercise\obj\Debug\net472\StaticExercise.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\StaticExercise\StaticExercise\StaticExercise\bin\Debug\net472\StaticExercise.exe.config
+C:\Users\jonat\Desktop\TrueCoders\repos\StaticExercise\StaticExercise\StaticExercise\bin\Debug\net472\StaticExercise.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\StaticExercise\StaticExercise\StaticExercise\bin\Debug\net472\StaticExercise.pdb
+C:\Users\jonat\Desktop\TrueCoders\repos\StaticExercise\StaticExercise\StaticExercise\obj\Debug\net472\StaticExercise.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\StaticExercise\StaticExercise\StaticExercise\obj\Debug\net472\StaticExercise.pdb
